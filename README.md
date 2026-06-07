@@ -1,4 +1,4 @@
-# A 3-button hackpad made by yours truly
+# A 3-button basic hackpad by PCTA
 
 I followed the hackpad [guide](https://hackpad.hackclub.com/guide) to make this.
 
@@ -8,19 +8,19 @@ It's my first PCB project and its very basic, but i thought it was cool to make 
 
 <u>Macropad design:</u>
 
-<img src="file:///C:/Users/PatrikPC/AppData/Roaming/marktext/images/2026-06-07-20-59-39-image.png" title="" alt="" width="559">
+<img src="/imgs/design.png" title="design" alt="design" width="559">
 
 <u>Case:</u>
 
-<img src="file:///C:/Users/PatrikPC/Desktop/macroshit/imgs/model.png" title="" alt="case" width="343">
+<img src="/imgs/model.png" title="case" alt="case" width="343">
 
 <u>PCB layout:</u>
 
-<img title="" src="file:///C:/Users/PatrikPC/AppData/Roaming/marktext/images/2026-06-07-21-02-00-image.png" alt="" width="192">
+<img title="layout" src="/imgs/layout.png" alt="pcb" width="192">
 
 <u>Schematic</u>:
 
-<img src="file:///C:/Users/PatrikPC/AppData/Roaming/marktext/images/2026-06-07-21-02-51-image.png" title="" alt="" width="396">
+<img src="/imgs/schema.png" title="schema" alt="schema" width="396">
 
 <u>BOM</u>:
 
