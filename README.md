@@ -1,4 +1,5 @@
-# A 3-button basic hackpad by PCTA
+#PCTApad
+## A 3-button basic hackpad by PCTA
 
 I followed the hackpad [guide](https://hackpad.hackclub.com/guide) to make this.
 
